@@ -1,0 +1,202 @@
+{
+    "pages": [
+        {
+            "tags": "",
+            "text": "Institute of Geosciences University of Campinas - UNICAMP Rua Carlos Gomes, 250 CEP: 13083-855 Campinas, SP Directions",
+            "title": "Location",
+            "url": "/geophysics/location.html"
+        },
+        {
+            "tags": "",
+            "text": "Interested in joining our laboratory? Do you have questions about our research? Write an email to the laboratory coordinator Prof. Dr. Emilson Pereira Leite .",
+            "title": "Contact",
+            "url": "/geophysics/contact.html"
+        },
+        {
+            "tags": "",
+            "text": "XXXXXXXXXX\nXXXXX\nXXXXXXXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXXXX\nXXXXXXXXXXXXXXXXXXXXX Sobre xxxxxxxxxxxxxxxx\nxxxxxxxxxxxxxx\nxxxxxxx",
+            "title": "Publications",
+            "url": "/geophysics/publications.html"
+        },
+        {
+            "tags": "",
+            "text": "With captions Add captions to your slides easily with the .carousel-caption element within any .carousel-item . They can be easily hidden on smaller viewports, as shown below, with optional display utilities . We hide them initially with .d-none and bring them back on medium-sized devices with .d-md-block . First slide label Nulla vitae elit libero, a pharetra augue mollis interdum. Second slide label Lorem ipsum dolor sit amet, consectetur adipiscing elit. Third slide label Praesent commodo cursus magna, vel scelerisque nisl consectetur. Previous Next",
+            "title": "About",
+            "url": "/geophysics/about.html"
+        },
+        {
+            "tags": "",
+            "text": "About email. phone. location. door-open. External link / Personal website. CV Lattes Research Gate Google Scholar ResearcherID ORCID The source code to build this site is available at .\nBuilt using Urubu and Bootstrap with icons by and Academicons.\nExcept were noted, all content is available under the CC-BY License. Scientific research made with , and lots of External link / Personal website. door-closed. map-marker-alt location. phone. phone. phone. : Add a picture Task 1 Task 2 Task 1",
+            "title": "TESTE",
+            "url": "/geophysics/teste.html"
+        },
+        {
+            "tags": "",
+            "text": "",
+            "title": "Geophysics Lab",
+            "url": "/geophysics/index.html"
+        },
+        {
+            "tags": "",
+            "text": "The Geophysics Lab has been funded through research grants from several\nfunding agencies.\nAll equipment listed below was acquired through resources from FAPESP , CNPq and CAPES . Previous Next For loan of equipments or contracting of services for data acquisition, processing and\ninterpretation, please make the request by email to the laboratory coordinator . 1 Scintrex ENVI-CS magnetometer, for magnetic field measurements; 1 Scintrex CG-5 digital gravity meter, for gravity acceleration measurements; 1 Terraplus RS-230 gamma-ray spectrometer, for measurements of gamma radiation and concentration of radioactive elements; 1 Terraplus KT-10 magnetic susceptibility meter; 1 Trimble Pro-XT DGPS; 2 Sthill MS 250 rock drilling rigs and 14 1\" drills for rock coring; 1 Brunton compass; 1 Pomeroy sample orienting fixture OR-2; 1 Triaxial cell apparatus for geomechanical measurements at high pressures, Martins Campelo Testing Systems LTDA; 5 Dell Precision 5820 Tower XCTO Base, Intel Xeon W-2145 (3.7GHz, 4.5GHz Turbo, 8C, 11MB Cache, HT, 140W) 128 Gb DDR4-2666; 2 Dell OptiPlex 7070 SFF BTX, Intel® Core™ i7-9700 (8 Cores/12MB/8T/3.0GHz to 4.8GHz/65W), 8GB 1X8GB DDR4 2666MHz UDIMM Non-ECC; 1 Dell Vostro 3470 (Core i5-9400, RAM 8GB, GeForce GT 730, HDD 1TB, DELL WIRELESS 1707); 1 Assembled workstation, RAM 128 Gb, HD 1.5 Tb, Intel core i7 2.8 GHz; 1 All-In-One HP-610, RAM 6 Gb, HD 1.5 Tb, Intel core i5, 2.8 GHz; 3 Dell Latitude 5501 XCTO 9th Generation Intel® Core i7-9850H (6 Cores, 12 MB Cache, 2.6 GHz, 4.6 GHz Turbo, 35W vPro) 16GB, DDR4 Non-ECC.",
+            "title": "Facilities",
+            "url": "/geophysics/facilities.html"
+        },
+        {
+            "tags": "",
+            "text": "",
+            "title": "Tags",
+            "url": "/geophysics/tag/index.html"
+        },
+        {
+            "tags": "",
+            "text": "Postdoctoral Researcher. BSc Mathematics (Unicamp), MSc Science and Petroleum\nEngineering - Geostatistics (Unicamp), PhD Science and Petroleum Engineering -\nGeophysics (Unicamp). Main interests: Artificial intelligence, deep learning,\nprediction, automatic Classification, regression, and Python programming.",
+            "title": "Alexandre Cruz Sanchetta",
+            "url": "/geophysics/people/alexandre.html"
+        },
+        {
+            "tags": "",
+            "text": "BSc Physics (Unicamp), MSc Science and Petroleum Engineering, PhD Reservoir\nGeophysics (University of Western Australia). Main interests: Time-lapse\nseismic, reservoir characterization, 3D/4D seismic interpretation, fluid-flow\nmodelling, quantitative seismic interpretation (QI), rock physics modelling,\nand seismic inversion.",
+            "title": "Rafael Medeiros de Souza",
+            "url": "/geophysics/people/medeiros.html"
+        },
+        {
+            "tags": "",
+            "text": "BSc Petroleum Engineering (UNICEUMA), MSc student (Unicamp). Main interests:\nPetrophysics, image processing, and digital rock physics.",
+            "title": "Jennifer Slayder Santos Souza",
+            "url": "/geophysics/people/jennifer.html"
+        },
+        {
+            "tags": "",
+            "text": "Project Manager and Lead Researcher.\nBSc Geology (Unicamp), MSc Geosciences (Unicamp), PhD Earth Sciences (Cardiff\nUniversity). Main interests: Petroleum geology, basin analysis, evolution of\ncontinental margins, structural geology, salt tectonics, 2D and 3D seismic\ninterpretation, petrophysics, and sedimentary rocks geochemistry.",
+            "title": "Nathalia Helena Secol Mattos",
+            "url": "/geophysics/people/nathalia.html"
+        },
+        {
+            "tags": "",
+            "text": "BSc Petroleum Engineering (UNICEUMA), MSc student (Unicamp). Main interests:\nPetrophysical prediction, support vector machine, and python programming.",
+            "title": "Arthur Ribeiro Nunes",
+            "url": "/geophysics/people/arthur.html"
+        },
+        {
+            "tags": "",
+            "text": "Researcher. BSc Geophysics (USP), MSc Geophysics (USP), PhD Petroleum Science\nand Engineering from the University of Campinas (Unicamp). Main interests:\nPython programming, seismic migration velocity analysis, and full-waveform\ntomography.",
+            "title": "Henrique Bueno dos Santos",
+            "url": "/geophysics/people/henrique.html"
+        },
+        {
+            "tags": "",
+            "text": "Professor at the Department of Geology and Natural Resources , Institute of Geosciences , University of Campinas .\nHe has bachelor's, master's and PhD degrees in Geophysics from the University of São Paulo .\nDuring his PhD he completed an internship program at the Department of Space and Earth Sciences and Engineering at the University York , Canada.\nHe has experience in the field of Geophysics and works mainly on the following\ntopics: inversion of geophysical data; geophysical studies of impact\nstructures; integration of geophysical, remote sensing and geological data\napplied to mineral and hydrocarbon exploration. Research lines Geotechnologies Applied to the Study of Natural Resources Areas of interest Applied Geophysics",
+            "title": "Emilson Pereira Leite",
+            "url": "/geophysics/people/emilson.html"
+        },
+        {
+            "tags": "",
+            "text": "Network administrator",
+            "title": "Ricardo Campos Passanezi",
+            "url": "/geophysics/people/ricardo.html"
+        },
+        {
+            "tags": "",
+            "text": "Postdoctoral Researcher. BSc Geology (UnB), MSc Geology (UnB), PhD Geophysics\n(USP). Main interests: Laboratory petrophysics and nuclear magnetic resonance.",
+            "title": "Marta Henriques Jacomo",
+            "url": "/geophysics/people/marta.html"
+        },
+        {
+            "tags": "",
+            "text": "BSc Petroleum Engineering (UNICEUMA), specialization in Work Safety Engineering\n(UNICEUMA), MSc student (Unicamp).  Main interests: Petrophysical prediction\nand classification of carbonate rocks, genetic algorithms, petroleum\ngeophysics, python programming, and systems modelling and optimisation.",
+            "title": "Lucas Farias de Carvalho",
+            "url": "/geophysics/people/lucas.html"
+        },
+        {
+            "tags": "",
+            "text": "Professor at the Department of Geology and Natural Resources , Institute of Geosciences , University of Campinas .\nHe has bachelor's (2001) in Physics, master's (2005) and PhD (2010) degrees\nin Geophysics from the University of São Paulo .\nDuring his PhD he completed an internship program at the Institut de Physique du Globe de Paris , France.\nHe did two postdoctoral internships in Geophysics at the University of São Paulo (2013) and at\nthe National Observatory (2016) in Rio de Janeiro, Brazil.\nHe develops research in geomagnetism, archeomagnetism, paleointensity,\nenvironmental magnetism and rock magnetism. Research lines Geotechnologies Applied to the Study of Natural Resources Areas of interest Archeomagnetism Geomagnetism Environmental Magnetism",
+            "title": "Gelvam André Hartmann",
+            "url": "/geophysics/people/gelvam.html"
+        },
+        {
+            "tags": "",
+            "text": "Graduated in Geology at Universidade Estadual Paulista Júlio de Mesquita Filho\n(1995), Master in Stratigraphy and Sedimentation at Universidade Estadual\nPaulista Júlio de Mesquita Filho (1998) and PhD in Sedimentary Basin Analysis\nat Universidade Estadual Paulista (2003). He has experience in the area of\nGeosciences, with an emphasis on Regional Geology, acting mainly on\nthe following themes: Basin Analysis, Continental Sequence Stratigraphic,\nSedimentology, Aquifer Systems and Geological Mapping. He was Adjunct Professor\nin the Department of Geosciences at the Universidade Estadual de Londrina (UEL),\nteaching General Geology and Earth System, Paleontology and Theory of\nEvolution, Geosciences and Environment, between 2004 and 2005. He joined as a\npostdoctoral fellow at the University of Campinas (UNICAMP) in 2005,\nwhere he taught the disciplines of Sedimentology (GE601), Stratigraphy (GE704)\nand Tectonostratigraphic Evolution and Economic Potentiality of Brazilian\nIntracratonic Basins (GE122), in addition to giving lectures and field work in\nthe disciplines of Field Geology II (Argentina and Piumhi-MG) (GE905) and\nGeology of Energy Resources (GE705). He completed his post-doctorate with the\nDepartment of Geology and Natural Resources of the University of Campinas\n(DGRN-UNICAMP) in April 2007, in the area of Sedimentology and\nStratigraphy, where he developed research on depositional mechanisms and\narchitectures of the holocentric alluvial fan systems of arid climate, in San\nJuan, in the west of Argentina, using the Bauru Basin deposits in Brazil as a\ncomparison model. From 2007 to 2010, he served as a PhD Professor at\nUniversidade Estadual Paulista (UNESP/Rio Claro), Faculdades Integradas\nEinstein de Limeira (FIEL) and Escola de Engenharia de Piracicaba (EEP) in the\ndisciplines Geomorphology, General Geology, Engineering Geology, Mechanics of\nSoils and Pedology. He is currently a full-time professor at the UNICAMP in the\ndisciplines Geology of Hydrocarbons, Brazilian Sedimentary Basins:\nTectonoestratigraphic Evolution and Economic Potentiality; Regional\nstratigraphic analysis; Mineralogy; Field Geology 0, 1 and 3. He works as a\nprofessor in the disciplines Seminaries, Petroleum Geology and Siliciclastic\nDepositional Systems. Develops research in the area of sedimentology,\nstratigraphy, basin analysis and petroleum geology in the postgraduate course\nof the Institute of Geosciences and Sciences and Petroleum Engineering Research lines Analysis of sedimentary basins Areas of interest Regional Geology Stratigraphy Sedimentology",
+            "title": "Alessandro Batezelli",
+            "url": "/geophysics/people/alessandro.html"
+        },
+        {
+            "tags": "",
+            "text": "",
+            "title": "People",
+            "url": "/geophysics/people/index.html"
+        },
+        {
+            "tags": "",
+            "text": "BSc Geology (UFSC), MSc Geosciences (Unicamp), PhD student (Unicamp). Main\ninterests: Carbonate reservoir facies identification and description, sequence\nstratigraphy, and depositional environments.",
+            "title": "Taynah Buratto Rebelo",
+            "url": "/geophysics/people/taynah.html"
+        },
+        {
+            "tags": "",
+            "text": "BSc Geology (Unicamp), MSc Geophysics (Unicamp), PhD student (Unicamp). Main\ninterests: Pre-stack seismic inversion in carbonate reservoirs, data analysis,\nand reservoir modelling.",
+            "title": "Rafael Amaral Cataldo",
+            "url": "/geophysics/people/rafael.html"
+        },
+        {
+            "tags": "",
+            "text": "Descrição É proposto um estudo gravimétrico e gamaespectrométrico da cratera de impacto\nde Araguainha. O estudo consistirá no processamento e interpretação geológica\nde dados gravimétricos e gamaespectrométricos terrestres a serem coletados\ndurante o projeto. Pretende-se caracterizar as anomalias gravimétricas da área\ne elaborar modelos tridimensionais da distribuição de densidades de massa em\nsubsuperfície. Esses modelos deverão refletir os contatos litológicos e as\nestruturas em profundidade, contribuindo para o entendimento da evolução\ngeológica dessa estrutura de impacto. Os dados gamaespectrométricos fornecerão\nmapas das concentrações dos elementos radioativos U238, Th232 e K40, além de\nprodutos derivados, tais como mapas de razões entre os elementos e do potássio\nanômalo que, quando associados às informações publicadas de petrografia,\npoderão revelar a presença de zonas de alteração hidrotermal associadas à\ncratera. Os resultados de ambos os métodos serão interpretados em conjunto, à\nluz do conhecimento geológico da cratera Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Especialização: (0) / Mestrado acadêmico: (2). Integrantes: Emilson Pereira Leite - Coordenador / Álvaro Penteado Crósta -\nIntegrante / Marcos Alberto Rodrigues Vasconcelos - Integrante.",
+            "title": "Gravimetria e gamaespectrometria da cratera de impacto de Araguainha",
+            "url": "/geophysics/research/project3.html"
+        },
+        {
+            "tags": "",
+            "text": "Descrição O projeto tem como objetivo principal avaliar a hipótese de impacto meteorítico\npara explicar a formação da estrutura de Cerro do Jarau, localizada no\nmunicípio de Quaraí/RS, com base em modelos geológicos elaborados por meio de\ninversões de dados de gravimetria e magnetometria, além de interpretações de\ndados gamaespectrométricos. Apesar de não estar comprovada, essa hipótese para\nformação da estrutura é sustentada pelas evidências geológicas encontradas até\no momento. Todos os dados geofísicos serão coletados, processados e\ninterpretados no sentido de caracterizar os principais padrões de anomalias\ngeofísicas. Posteriormente, serão elaborados modelos 3D de distribuição de\ndensidades e magnetizações em subsuperfície levando em conta as informações\ngeológicas disponíveis. Espera-se que esses modelos ampliem o conhecimento\ngeológico de subsuperfície desta e de outras estruturas similares, formadas\nsobre rochas basálticas. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1). Integrantes: Emilson Pereira Leite - Coordenador / Álvaro Penteado Crósta -\nIntegrante / Marcos Alberto Rodrigues Vasconcelos - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio\nfinanceiro.",
+            "title": "Estudo Geofísico da Estrutura de Cerro do Jaraú",
+            "url": "/geophysics/research/project5.html"
+        },
+        {
+            "tags": "",
+            "text": "Descrição O objetivo principal do projeto é estudar as possibilidades e limitações na\nrecuperação de parâmetros petrofísicos de reservatórios de hidrocarbonetos a\npartir da inversão simultânea de dados sísmicos pré-empilhamento. Os tipos de\nreservatório que constituirão o foco dos estudos decorrentes desse projeto\nserão os carbonáticos. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (2). Integrantes: Emilson Pereira Leite - Coordenador Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio\nfinanceiro.",
+            "title": "Métodos de inversão sísmica pré-empilhamento aplicados a caracterização e modelagem de reservatórios",
+            "url": "/geophysics/research/project6.html"
+        },
+        {
+            "tags": "",
+            "text": "Descrição O problema básico a ser abordado neste projeto é como relacionar os volumes de\natributos sísmicos (p. e.x. impedância P, impedância S, Vp/Vs, densidade)\nobtidos com inversões sísmicas aos perfis geofísicos de poços. Uma maneira\nrotineira de se fazer isso é através de diagramas de correlação cruzada entre\nesses parâmetros e então destacar certas zonas selecionadas nos diagramas, as\nquais correspondem a determinadas litofácies. Essas zonas são então\nidentificadas e marcadas no volume sísmico. O problema é que a área\ninterpretada no volume depende criticamente do tamanho da zona selecionada no\ndiagrama. Portanto, em vez de definir um limiar de corte arbitrário para\ndelimitar a zona de interesse, a ideia da abordagem a ser seguida neste projeto\né trabalhar com distribuições de probabilidade, sendo que essas distribuições\ndevem ser mapeadas no volume sísmico usando uma classificação bayesiana. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (1) / Mestrado acadêmico: (1) / Doutorado: (1). Integrantes: Emilson Pereira Leite - Coordenador.",
+            "title": "Predição de litofácies utlizando atributos sísmicos e dados de poços",
+            "url": "/geophysics/research/project4.html"
+        },
+        {
+            "tags": "",
+            "text": "Descrição É proposto um estudo geofísico de duas crateras de impacto basálticas da Bacia\ndo Paraná: Vista Alegre (diâmetro ≈ 9,5 km) e Vargeão (diâmetro ≈ 12 km). O\nestudo será concentrado na coleta, processamento e interpretação de dados\ngravimétricos e magnetométricos terrestres. A coleta dos dados terrestres tem\npor objetivo a caracterização geofísica de detalhe das duas estruturas e as\nmodelagens 2D e 3D das rochas em subsuperfície. Embora comuns em outros\nplanetas terrestres e suas respectivas luas, crateras de impacto formadas em\nbasaltos são raras na Terra, sendo que apenas alguns poucos exemplos são\nconhecidos até hoje. Essas raras crateras basálticas terrestres podem fornecer\nimportantes informações para o estudo dos efeitos dos impactos em alvos\nbasálticos. Em um contexto mais geral, os resultados deste projeto poderão\ncontribuir para o entendimento da gênese, formação, estruturação e deformação\ndestas duas estruturas de impacto e para a compreensão da evolução crustal da\nBacia do Paraná. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1). Integrantes: Emilson Pereira Leite - Coordenador / Álvaro Penteado Crósta -\nIntegrante. Financiador(es): Fundação de Amparo à Pesquisa do Estado de São\nPaulo - Auxílio financeiro.",
+            "title": "Estudo Geofísico das Estruturas de Impacto de Vista Alegre/SC e Vargeão/SC",
+            "url": "/geophysics/research/project8.html"
+        },
+        {
+            "tags": "",
+            "text": "Descrição A perfilagem gamaespectrométrica em afloramentos permite registrar pequenas\nvariações litológicas através das medidas das concentrações dos elementos K, Th\ne U, constituindo uma técnica ideal para caracterização objetiva e quantitativa\nde litofácies e limites estratigráficos. Através da calibração em afloramentos\nanálogos, é possível melhorar os modelos de litofácies em subsuperfície,\nelaborados a partir de perfis geofísicos de poços e testemunhos de rochas.\nParticularmente, isto torna a gamaespectrometria de superfície potencialmente\nútil na caracterização de rochas reservatórios, tendo sido recentemente\nutilizada na elaboração de modelos geológicos 3D de reservatórios em ambientes\nsimilares. O principal problema a ser abordado é a presente dificuldade em\nestabelecer a correlação estratigráfica em subsuperfície. Além disso, o caráter\nsimilar de fácies sedimentares existentes entre diferentes unidades e a fraca\ncorrelação lateral entre os limites das seqüências estratigráficas aflorantes\nfazem com que exista uma grande ambigüidade ao se tentar estabelecer\ncorrelações individuais sem o uso da gamaespectrometria. Neste contexto, este\nprojeto propõe a coleta e interpretação de dados gamaespectrométricos em\nafloramentos sedimentares do Grupo Tubarão (Bacia do Paraná) e na Bacia de\nTaubaté. Estas duas áreas de estudo apresentam significativas heterogeneidades\nlitológicas, o que implica em grande variação na capacidade de fluxo de água.\nDesta forma, a caracterização dos reservatórios utilizando todas as informações\ngeofísicas e geológicas, disponíveis em superfície e em subsuperfície, é de\nfundamental importância para o melhor entendimento dessas heterogeneidades. Os\nperfis gamaespectrométricos elaborados serão analisados e correlacionados com\nos perfis geofísicos de poços e informações geológicas disponíveis nas regiões\nvizinhas aos afloramentos. Desta forma, este trabalho pretende fornecer novos\ndados para a caracterização geológica das rochas reservatórios das duas. Situação: Concluído; Natureza: Pesquisa. Integrantes: Emilson Pereira Leite - Coordenador / Alexandre Campane Vidal -\nIntegrante.",
+            "title": "Aplicação da gamaespectrometria na correlação de afloramentos com perfis geofísicos de poços",
+            "url": "/geophysics/research/project9.html"
+        },
+        {
+            "tags": "",
+            "text": "Estudo Geofísico das Estruturas de Impacto de Vista Alegre/SC e Vargeão/SC 01-Jan-2011 Aplicação da gamaespectrometria na correlação de afloramentos com perfis geofísicos de poços 01-Jan-2011 Caracterização geológica e geofísica da potencial estrutura de impacto de Santa Marta (PI) 01-Jan-2012 Métodos de inversão sísmica pré-empilhamento aplicados a caracterização e modelagem de reservatórios 01-Jan-2013 Estudo Geofísico da Estrutura de Cerro do Jaraú 01-Jan-2014 Predição de litofácies utlizando atributos sísmicos e dados de poços 01-Jan-2016 Gravimetria e gamaespectrometria da cratera de impacto de Araguainha 01-Jan-2017 Análise integrada multi-escala de rochas carbonáticas do pré-sal para caracterização e previsão de propriedades de reservatórios 01-Jan-2019 O campo paleomagnético médio na Ámerica do Sul entre 0-5 Ma 01-Jan-2019",
+            "title": "Research",
+            "url": "/geophysics/research/index.html"
+        },
+        {
+            "tags": "",
+            "text": "Descrição O objetivo geral do projeto é desenvolver e aplicar metodologias para\ncaracterização e predição multi-escala de propriedades de reservatórios\ncarbonáticos do pré-sal, integrando dados petrofísicos, informações geológicas,\ndados de perfis de poços e dados sísmicos. Serão obtidas uma série de medições\npetrofísicas clássicas e modernas, para vincular previsões de propriedades\npetrofísicas a partir de parâmetros elásticos baseados em técnicas de\nAprendizado de Máquina (ML - Machine Learning) desenvolvidos recentemente e em\nalgoritmos de inversão sísmica-petrofísica probabilística. As inversões serão\naplicadas para previsão de propriedades petrofísicas em regiões onde somente\ndados sísmicos estão disponíveis. A metodologias propostas deverão levar em\nconta as incertezas de forma robusta, a fim de mitigar o risco de perfuração de\npoços secos, juntamente com técnicas apropriadas de transferência de escala\npara transformar os dados de escala fina (escala de poros; micrômetros) para\nescala média (escala de perfis de poços; centímetros) até escala grossa (escala\nsísmica; metros) minimizando a perda de informação. Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (3) Doutorado: (2) . Integrantes: Emilson Pereira Leite - Coordenador / Alexandre Cruz Sanchetta -\nIntegrante / Henrique Bueno dos Santos - Integrante / Alessandro Batezelli -\nIntegrante / Gelvam André Hartmann - Integrante / Nathália Helena Secol Mattos\n- Integrante / Rafael Medeiros de Souza - Integrante / Marta Henriques Jácomo -\nIntegrante.",
+            "title": "Análise integrada multi-escala de rochas carbonáticas do pré-sal para caracterização e previsão de propriedades de reservatórios",
+            "url": "/geophysics/research/project1.html"
+        },
+        {
+            "tags": "",
+            "text": "Descrição Atualmente 182 estruturas de impacto meteorítico são conhecidas na superfície\nda Terra. No Brasil, apenas seis estruturas desse tipo foram diagnosticadas até\no presente, tratando-se de tema de pesquisa que apenas recentemente vem\nganhando expressão. O grupo de estudos de crateras de impacto do Instituto de\nGeociências da UNICAMP, coordenado pelo proponente deste projeto, tem\npesquisado essas estruturas, o que tem permitido a identificação de evidências\ndesse tipo raro de processo e sua caracterização geológica e geofísica. Isso\nvem permitindo nos últimos anos o desenvolvimento de projetos de colaboração\ncom outros grupos nacionais e internacionais, propiciando o avanço do\nconhecimento científico das crateras meteoríticas brasileiras e a sua\ndivulgação por meio de artigos científicos em periódicos internacionais e em\nimportantes fóruns científicos internacionais dedicados aos temas da geologia\nplanetária. A Bacia do Parnaíba contém diversas estruturas circulares com\npotencial de terem sido formadas por impacto meteorítico. A estrutura circular\nde Santa Marta (PI), em especial, mostrou-se como forte candidata ao\napresentar, em estudo anterior do grupo de pesquisa, características geofísicas\ncompatíveis com aquelas esperadas para estruturas de impacto. O presente\nprojeto visa, portanto, dar continuidade à investigação da natureza da\nestrutura de Santa Marta, a partir de um trabalho detalhado de mapeamento\ngeológico e de caracterização geofísica, com o objetivo de identificar feições\nmacro e microscópicas de choque que comprovem sua origem por impacto,\njuntamente com uma análise da assinatura geofísica de detalhe e da modelagem\nnumérica da sua formação Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1). Integrantes: Emilson Pereira Leite - Integrante / Álvaro Penteado Crósta -\nCoordenador / Ana Maria Góes - Integrante / Marcos Alberto Rodrigues\nVasconcelos - Integrante / Raiumundo Mariano Gomes Castelo Branco - Integrante\n/ Wolf Uwe Reimold - Integrante. Financiador(es): Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio\nfinanceiro.",
+            "title": "Caracterização geológica e geofísica da potencial estrutura de impacto de Santa Marta (PI)",
+            "url": "/geophysics/research/project7.html"
+        },
+        {
+            "tags": "",
+            "text": "Descrição Situação: Em andamento; Natureza: Pesquisa. Alunos envolvidos: Mestrado acadêmico: (1) Doutorado: (1). Integrantes: Gelvam André Hartmann -\nCoordenador / Ricardo Ivan Ferreira da Trindade - Integrante / Jairo Francisco\nSavian - Integrante / Thiago Ribas Moncinhatto - Integrante / Carlos Augusto\nSommer - Integrante / Wellington Paulo de Oliveira - Integrante. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico\n- Auxílio financeiro.",
+            "title": "O campo paleomagnético médio na Ámerica do Sul entre 0-5 Ma",
+            "url": "/geophysics/research/project2.html"
+        }
+    ]
+}
